@@ -1,7 +1,6 @@
 {
   "name": "reactmarvelapp",
   "version": "0.1.0",
-  "homepage":"https://github.com/hafidmuhammad/Hafid-Week2-MtId",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
